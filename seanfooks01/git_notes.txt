@@ -1,0 +1,9 @@
+git add <file> Adds any changes inside <file> to the staging area
+git commit -m '<message>' Commits the staging area to the repository with a <message>
+git branch <path> List, create, or delete branches
+checkout   <path> Checkout a branch or paths to the working tree
+clone      <path> Clone a repository into a new directory
+merge      <path> Join two or more development histories together
+pull       Fetch from and integrate with another repository or a local
+push       Update remote refs along with associated objects
+
